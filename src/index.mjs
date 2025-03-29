@@ -1,6 +1,6 @@
 import "./styles.css";
 
-console.log("ああああああああ")
+// console.log("ああああああああ")
 // 軽微な修正
 
 document.getElementById("app").innerHTML = `
